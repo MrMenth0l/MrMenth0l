@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yehosua Hercules aka "MrMenth0l", and i'm currently a highschool student
+- 👋 Hi, I’m Yehosua Hercules aka "MrMenth0l", and i'm currently a CS student
 - 
 - 👀 I’m interested in everything about python, ML, data science etc.
 - 
